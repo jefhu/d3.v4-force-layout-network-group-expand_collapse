@@ -2,7 +2,9 @@
 
 Convert http://bl.ocks.org/GerHobbelt/3071239 to d3 v4 code
 
-How to view it?
+# How to view it?
+
+https://bl.ocks.org/jefhu/130855f48d03d564fdad1c43a649b932
 
 In your terminal, start a web server
 
@@ -22,4 +24,5 @@ http://localhost:9000/index-network-forcelayout-group-expandcollapse.html
 
 http://bl.ocks.org/GerHobbelt/3071239 (by Ger Hobbelt)
 
-http://bl.ocks.org/ranjeet8082/c8886aff4f11d4920718fe5a26131093 
+http://bl.ocks.org/ranjeet8082/c8886aff4f11d4920718fe5a26131093 (by Ranjeet Kumar)
+
