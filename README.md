@@ -27,3 +27,5 @@ http://bl.ocks.org/GerHobbelt/3071239 (by Ger Hobbelt)
 http://bl.ocks.org/ranjeet8082/c8886aff4f11d4920718fe5a26131093 (by Ranjeet Kumar)
 
 <img width="963" alt="image" src="https://user-images.githubusercontent.com/4658515/213023266-96877695-d4be-4838-8129-3a8406a74c6c.png">
+
+<img width="931" alt="image" src="https://user-images.githubusercontent.com/4658515/213023459-56638500-7836-4882-993b-ab9a2015b07b.png">
